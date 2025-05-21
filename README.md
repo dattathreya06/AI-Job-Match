@@ -32,8 +32,8 @@ https://ai-job-match.vercel.app/
 
 1. Clone the repository:
    \`\`\`bash
-   git clone https://github.com/yourusername/job-match-platform.git
-   cd job-match-platform
+   git clone https://github.com/dattathreya06/AI-Job-Match.git
+   cd AI-Job-Match
    \`\`\`
 
 2. Install dependencies:
